@@ -3,9 +3,9 @@
 * 반응형 웹 페이지
 
 ### 2. 프로젝트 참고 교재
-![images](https://github.com/seokeunpark/Personal_Project1/assets/145525099/f6d7633d-6928-487c-8d7c-51822e08936d)
-</br>
 코딩 자율학습 HTML+CSS+자바스크립트 (길벗)
+</br>
+![images](https://github.com/seokeunpark/Personal_Project1/assets/145525099/f6d7633d-6928-487c-8d7c-51822e08936d)
 
 ## 🔍 프로젝트 결과물
 ![web_selfpj_gilbut](https://github.com/Kang-YunSik/Web_Selfpj_gilbut/assets/145963623/bdd4129f-efc3-4ec8-8d0e-0dce0051f6e7)
