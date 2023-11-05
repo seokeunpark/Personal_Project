@@ -10,7 +10,7 @@
 ### 3. 구현 기능
 | CSS | JS | 
 | --- | --- | 
-| [반응형 웹페이지] (https://github.com/seokeunpark/Personal_Project1/blob/b3fed26db465df8eea864e21b84ae307ba720db4/style.css#L401) |  [텍스트가 지워지고 써지는 효과](https://github.com/Kang-YunSik/Web_Selfpj_gilbut/blob/main/script.js#L7)  |
+| [반응형 웹페이지] ([https://github.com/seokeunpark/Personal_Project1/blob/b3fed26db465df8eea864e21b84ae307ba720db4/style.css#L401])(https://github.com/seokeunpark/Personal_Project1/blob/3f3b4b396d501159d2a636cea22417d38c98002b/style.css#L401)) |  [텍스트가 지워지고 써지는 효과](https://github.com/Kang-YunSik/Web_Selfpj_gilbut/blob/main/script.js#L7)  |
 |  [스크롤 위치에 맞게 이미지 출력](https://github.com/Kang-YunSik/Web_Selfpj_gilbut/blob/main/style.css#L347C6-L347C6) |  [최상단 고정 메뉴바](https://github.com/Kang-YunSik/Web_Selfpj_gilbut/blob/main/script.js#L74) |
 | - |  [메뉴바 클릭시 스크롤 이동](https://github.com/Kang-YunSik/Web_Selfpj_gilbut/blob/main/script.js#L106)  |
  
