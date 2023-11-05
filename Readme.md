@@ -4,6 +4,7 @@
 
 ### 2. 프로젝트 참고 교재
 ![images](https://github.com/seokeunpark/Personal_Project1/assets/145525099/f6d7633d-6928-487c-8d7c-51822e08936d)
+</br>
 코딩 자율학습 HTML+CSS+자바스크립트 (길벗)
 
 ## 🔍 프로젝트 결과물
